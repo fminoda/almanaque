@@ -1,0 +1,13 @@
+{
+    "Badalhoca": {
+        "tipo" : "PESSOA",
+        "descricao" : "Descricao do Badalhoca",
+        "lixo" : "Lixo do Badalhoca"
+    },
+    "Simone": {
+        "tipo" : "PESSOA",
+        "descricao" : "Descricao da Simone",
+        "lixo" : "Lixo da Simone"
+    }
+}
+

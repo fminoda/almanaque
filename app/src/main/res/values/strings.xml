@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Almanaque</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_about">Sobre</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+</resources>
